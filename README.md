@@ -21,8 +21,7 @@
 
 ***
 
-- 🔭 I’m currently working on [PeakSoft](https://peak-soft.de/) and [Deichmann](https://www.deichmann.com/de-de/) Projects.
-- 🌱 I’m currently learning React and Figma.
+- 🔭 Currently working  @[CHECK24]([https://peak-soft.de/](https://github.com/CHECK24)).
 
 ***
 
