@@ -21,7 +21,7 @@
 
 ***
 
-- 🔭 Currently working  @[CHECK24]([https://peak-soft.de/](https://github.com/CHECK24)).
+- 🔭 Currently working at [CHECK24]([https://github.com/CHECK24/](https://github.com/CHECK24)).
 
 ***
 
