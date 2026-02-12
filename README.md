@@ -1,43 +1,60 @@
+<h1 align="center">Hi there, I'm Habib Mokni 👋</h1>
 
-<h1 align="center">Hi there 👋</h1>
-
-***
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%40+CHECK24;Angular+%26+TypeScript+Expert;Building+Modern+Web+Apps" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <samp>Software Developer from Köln, DE | Angular, TypeScript, Remix | Content Creator & Investor</samp>
+</p>
+
+***
+
+## 🏆 GitHub Trophies
+<div align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=habibmokni&column=8&theme=onedark&no-frame=true"/>
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=habibmokni&column=8&theme=onedark&no-frame=true&no-bg=true"/>
   </a>
+</div>[web:1][web:21]
+
+***
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=habibmokni&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibmokni&layout=compact&theme=radical&hide_border=true" />
+</div>[web:16][web:19]
+
+***
+
+## 🏢 Currently Working On
+- 🔭 Frontend Engineer at <a href="https://www.check24.de">CHECK24</a> – Optimizing payment checkouts, Angular apps, and performance[web:22][web:26]
+
+***
+
+## 💼 Tech Stack
+<div align="center">
+
+| Frontend | Backend/Full-Stack | Tools & Others |
+|----------|--------------------|----------------|
+| Angular [web:23] | Remix | TypeScript, RxJS, n8n |
+| TypeScript | Node.js | Cursor IDE, ESLint |
+
 </div>
 
+## 🚀 Interests & Projects
+- Building YouTube Shorts on history & facts
+- Personal finance: Crypto (BTC), Gold/Silver, ETFs via Revolut/Trade Republic
+- Anime (JoJo's), Strategy Games, Travel Planning
+- Recent: PayPal SPS integration, Hardware checkout optimization[web:23]
 
 ***
 
-<div  align="center">
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=habibmokni&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibmokni&layout=compact&theme=radical" />
+## 👀 Profile Views
+![Views](https://komarev.com/ghpvc/?username=habibmokni&color=blueviolet&style=flat-square&label=Profile+Views)[web:8]
+
+***
+
+<div align="center">
+  <samp>💬 Open to collaborations on web dev, content creation, or finance tools!</samp>
 </div>
-
-<!-- ![BibMok's GitHub stats](https://github-readme-stats.vercel.app/api?username=habibmokni&count_private=true&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibmokni&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
------------- | ------------- -->
-
-***
-
-- 🔭 Currently working at [CHECK24]([https://github.com/CHECK24/](https://github.com/CHECK24)).
-
-***
-
-![](https://komarev.com/ghpvc/?username=habibmokni&color=blueviolet)
-
-<!--
-**habibmokni/habibmokni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
