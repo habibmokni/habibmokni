@@ -13,22 +13,22 @@
 ## 🏆 GitHub Trophies
 <div align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=habibmokni&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+    <img width="800" alt="GitHub Trophies" src="https://github-profile-trophy-liard-delta.vercel.app/?username=habibmokni&column=8&theme=onedark&no-frame=true&no-bg=true"/>
   </a>
-</div>[web:1][web:21]
+</div>
 
 ***
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=habibmokni&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibmokni&layout=compact&theme=radical&hide_border=true" />
-</div>[web:16][web:19]
+  <img height="180" width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=habibmokni&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180" width="40%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibmokni&layout=compact&theme=radical&hide_border=true" />
+</div>
 
 ***
 
 ## 🏢 Currently Working On
-- 🔭 Frontend Engineer at <a href="https://www.check24.de">CHECK24</a> – Optimizing payment checkouts, Angular apps, and performance[web:22][web:26]
+- 🔭 Frontend Engineer at <a href="https://www.check24.de">CHECK24</a> – Optimizing payment checkouts, Angular apps, and performance.
 
 ***
 
@@ -37,7 +37,7 @@
 
 | Frontend | Backend/Full-Stack | Tools & Others |
 |----------|--------------------|----------------|
-| Angular [web:23] | Remix | TypeScript, RxJS, n8n |
+| Angular | Remix | TypeScript, RxJS, n8n |
 | TypeScript | Node.js | Cursor IDE, ESLint |
 
 </div>
@@ -46,12 +46,12 @@
 - Building YouTube Shorts on history & facts
 - Personal finance: Crypto (BTC), Gold/Silver, ETFs via Revolut/Trade Republic
 - Anime (JoJo's), Strategy Games, Travel Planning
-- Recent: PayPal SPS integration, Hardware checkout optimization[web:23]
+- Recent: PayPal SPS integration, Hardware checkout optimization
 
 ***
 
 ## 👀 Profile Views
-![Views](https://komarev.com/ghpvc/?username=habibmokni&color=blueviolet&style=flat-square&label=Profile+Views)[web:8]
+![Views](https://komarev.com/ghpvc/?username=habibmokni&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ***
 
