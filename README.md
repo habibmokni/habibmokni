@@ -28,7 +28,7 @@
 ***
 
 ## 🏢 Currently Working On
-- 🔭 Frontend Engineer at <a href="https://www.check24.de">CHECK24</a> – Optimizing payment checkouts, Angular apps, and performance.
+- 🔭 Software Developer at <a href="https://www.check24.de">CHECK24</a>
 
 ***
 
