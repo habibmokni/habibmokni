@@ -42,12 +42,6 @@
 
 </div>
 
-## 🚀 Interests & Projects
-- Building YouTube Shorts on history & facts
-- Personal finance: Crypto (BTC), Gold/Silver, ETFs via Revolut/Trade Republic
-- Anime (JoJo's), Strategy Games, Travel Planning
-- Recent: PayPal SPS integration, Hardware checkout optimization
-
 ***
 
 ## 👀 Profile Views
