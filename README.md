@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Habib Mokni 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%40+CHECK24;Angular+%26+TypeScript+Expert;Building+Modern+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Software+Developer+%40+CHECK24;Angular+%26+TypeScript+Dev;Building+Modern+Web+Apps" alt="Typing SVG" />
 </div>
 
 <p align="center">
