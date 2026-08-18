@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="820" alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=habibmokni&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=habibmokni&column=7&theme=onedark&no-frame=true&no-bg=true&margin-w=4"/>
   </a>
 </div>
 
@@ -33,8 +33,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=habibmokni&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180" width="40%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibmokni&layout=compact&theme=radical&hide_border=true" />
+  <img height="180" width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=habibmokni&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
+  <img height="180" width="40%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibmokni&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
 </div>
 
 <div align="center">
