@@ -72,6 +72,14 @@
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+  <img width="95%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=habibmokni&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 > ℹ️ To enable this, add the [snake workflow](.github/workflows/snake.yml) to this repo and run it once.
