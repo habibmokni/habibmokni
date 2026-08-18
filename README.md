@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Habib Mokni 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:6e40c9&height=180&section=header&text=Habib%20Mokni&fontSize=52&fontColor=fff&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20Angular%20%7C%20TypeScript%20%7C%20Remix&descSize=18&descAlignY=58" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Software+Developer+%40+CHECK24;Angular+%26+TypeScript+Enthusiast;Building+Modern+Web+Apps;Content+Creator+%26+Investor" alt="Typing SVG" />
@@ -80,20 +80,8 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-> ℹ️ To enable this, add the [snake workflow](.github/workflows/snake.yml) to this repo and run it once.
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/habibmokni/habibmokni/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/habibmokni/habibmokni/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/habibmokni/habibmokni/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
 <div align="center">
   <samp>💬 Open to collaborations on web dev, content creation, or finance tools!</samp>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:007ACC&height=120&section=footer" />
