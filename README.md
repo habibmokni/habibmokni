@@ -20,37 +20,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=habibmokni&column=7&theme=onedark&no-frame=true&no-bg=true&margin-w=4"/>
-  </a>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180" width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=habibmokni&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
-  <img height="180" width="40%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibmokni&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
-</div>
-
-<div align="center">
-  <img width="70%" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=habibmokni&theme=radical&hide_border=true" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img width="95%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=habibmokni&theme=react-dark&hide_border=true&area=true" />
-</div>
-
----
-
 ## 🏢 What I'm Working On
 
 - 🔭 Software Developer at <a href="https://www.check24.de">CHECK24</a> — building scalable frontend solutions
@@ -84,6 +53,35 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://img.shields.io/github/followers/habibmokni?style=for-the-badge&logo=github&label=Followers&color=6e40c9" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/habibmokni?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=f9a825" alt="Stars" />
+
+  <br/><br/>
+
+  <img width="65%" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=habibmokni&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+> ℹ️ To enable this, add the [snake workflow](.github/workflows/snake.yml) to this repo and run it once.
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/habibmokni/habibmokni/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/habibmokni/habibmokni/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/habibmokni/habibmokni/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
